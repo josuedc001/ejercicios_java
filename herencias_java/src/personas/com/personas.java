@@ -47,7 +47,7 @@ public class personas {
     }
 
 
-
+    // constructor toSring
     public String toString2() {
         return "personas{" +
                 "nombre='" + nombre + '\'' +
